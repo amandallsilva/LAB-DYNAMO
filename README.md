@@ -3,7 +3,7 @@
 **Disciplina:** Banco de Dados 2  
 **Tema:** Persistência Poliglota e Modelagem Orientada a Acesso (Access Patterns)  
 **Projeto:** UFAM Connect  
-
+**Alunos:** Amanda, Carlos Eduardo, Cintia Seixas, Nelio Tobias
 ---
 
 ## 1. INTRODUÇÃO
